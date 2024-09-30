@@ -1,24 +1,24 @@
 export const features = [
   {
     id: "0",
-    icon: "/images/feature-1.png",
-    caption: "Easy integration",
-    title: "Work smarter not harder",
-    text: "With Xora, tedious tasks are history. Automation and smart processes bring your productivity to new heights. It's like having an extra cup of coffee, but without the jitters.",
+    icon: "/images/feature-1-v2.png",
+    caption: "Integração Fácil",
+    title: "Treine de forma mais inteligente, não mais difícil",
+    text: "Tarefas repetitivas ficam no passado. Com treinos otimizados e métodos inteligentes, sua performance atinge novos níveis. É como se você tivesse uma dose extra de energia, mas sem o cansaço.",
     button: {
       icon: "/images/magictouch.svg",
-      title: "Watch the demo",
+      title: "Simule seu treino",
     },
   },
   {
     id: "1",
-    icon: "/images/feature-2.png",
-    caption: "Secure & trustworthy",
-    title: "Sleep easy, we got your back",
-    text: "Your data security is our priority. With state-of-the-art encryption and robust privacy controls, Xora helps keeps your information secure and locked up tighter than Fort Knox.",
+    icon: "/images/feature-2-v2.png",
+    caption: "Profissionalismo e Confiança",
+    title: "Treine tranquilo, nós cuidamos de você",
+    text: "Seus objetivos é nossa prioridade. Com instrutores qualificados, garantimos que sua jornada fitness seja eficiente e livre de preocupações, assim você pode focar no que realmente importa: seus resultados.",
     button: {
       icon: "/images/docs.svg",
-      title: "Read the docs",
+      title: "Conheça nosso time",
     },
   },
 ];
@@ -26,131 +26,131 @@ export const features = [
 export const details = [
   {
     id: "0",
-    icon: "/images/detail-1.png",
-    title: "AI automated video editing",
+    icon: "/images/detail-1-v2.png",
+    title: "Treinos Personalizados",
   },
   {
     id: "1",
-    icon: "/images/detail-2.png",
-    title: "Collaborate with your team",
+    icon: "/images/detail-2-v2.png",
+    title: "Treinos em Equipe",
   },
   {
     id: "2",
-    icon: "/images/detail-3.png",
-    title: "Ultra fast cloud-engine",
+    icon: "/images/detail-3-v2.png",
+    title: "Monitoramento em Tempo Real",
   },
   {
     id: "3",
-    icon: "/images/detail-4.png",
-    title: "24 / 7 Customer support",
+    icon: "/images/detail-4-v2.png",
+    title: "Suporte 24/7",
   },
 ];
 
 export const faq = [
   {
     id: "0",
-    question: "How easy is it to setup Xora?",
+    question: "Quão fácil é configurar o app TREINE?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Muito fácil! A configuração é rápido e intuitivo, permitindo que você comece a treinar em poucos minutos.",
   },
   {
     id: "1",
-    question: "Can I integrate Xora with other platforms?",
+    question: "Posso integrar o TREINE com outras plataformas?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Sim! O app é compatível com diversas plataformas, permitindo que você sincronize seus treinos e dados facilmente.",
   },
   {
     id: "2",
-    question: "How often do you add new content?",
+    question: "Com que frequência vocês adicionam novos treinos?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Estamos sempre atualizando nosso conteúdo! Novas rotinas de treino são adicionadas regularmente para manter seu programa sempre desafiador.",
   },
   {
     id: "3",
-    question: "What your refund policy?",
+    question: "Qual é a política de reembolso?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Oferecemos uma política de reembolso flexível. Se você não estiver satisfeito, entre em contato conosco dentro de 30 dias para um reembolso total.",
   },
   {
     id: "4",
-    question: "Do you have corporate plans?",
+    question: "Vocês têm planos corporativos?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Sim, oferecemos planos corporativos personalizados para empresas que desejam promover a saúde e bem-estar de seus colaboradores.",
   },
   {
     id: "5",
-    question: "What happens when I’m out of storage?",
+    question: "A  TREINE oferece avaliações de desempenho?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Sim! Realizamos avaliações periódicas para acompanhar seu progresso e ajustar seu plano de treino conforme necessário.",
   },
   {
     id: "6",
-    question: "Can I upgrade my plan?",
+    question: "Posso mudar meu plano?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Sim! Você pode atualizar seu plano a qualquer momento, de acordo com suas necessidades e objetivos de treino.",
   },
   {
     id: "7",
-    question: "How do I invite my team?",
+    question: "Como posso convidar amigos para usar o TREINE?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "É simples! Basta compartilhar seu código de convite ou enviar um link diretamente através do app.",
   },
-  {
-    id: "8",
-    question: "Do you offer training for individuals and teams?",
-    answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
-  },
-  {
-    id: "9",
-    question: "I’m locked out of my account what do I do?",
-    answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
-  },
+  // {
+  //   id: "8",
+  //   question: "A Academia TREINE oferece avaliações de desempenho?",
+  //   answer:
+  //     "Sim! Realizamos avaliações periódicas para acompanhar seu progresso e ajustar seu plano de treino conforme necessário.",
+  // },
+  // {
+  //   id: "9",
+  //   question: "Estou bloqueado da minha conta, o que devo fazer?",
+  //   answer:
+  //     "Se você estiver com problemas para acessar sua conta, entre em contato com nossa equipe de suporte e resolveremos rapidamente.",
+  // },
 ];
 
 export const plans = [
   {
     id: "0",
-    title: "Core",
+    title: "Individual",
     priceMonthly: 19,
     priceYearly: 12,
-    caption: "Best for solo creators",
+    caption: "",
     features: [
-      "100MB Cloud storage",
-      "100+ prompt templates",
-      "5 projects",
-      "24/7 support",
+      "Treinos exclusivos",
+      "+ 100 rotinas de treino",
+      "Até 5 sessões personalizadas por mês",
+      "Suporte 24/7",
     ],
     icon: "/images/circle.svg",
     logo: "/images/plan-1.png",
   },
   {
     id: "1",
-    title: "Overdrive",
+    title: "Individual prime",
     priceMonthly: 79,
     priceYearly: 59,
-    caption: "Most popular plan",
+    caption: "Plano mais popular",
     features: [
-      "All Starter features",
-      "1TB additional storage",
-      "Unlimited projects",
-      "Analytics",
+      "Todos os benefícios do plano individual",
+      "Relatório de desempeho",
+      "Sessões ilimitadas com personal",
+      "Suporte prioritário 24/7",
     ],
     icon: "/images/triangle.svg",
     logo: "/images/plan-2.png",
   },
   {
     id: "2",
-    title: "Team",
+    title: "Casal",
     priceMonthly: 39,
     priceYearly: 29,
-    caption: "Exclusively for teams",
+    caption: "",
     features: [
-      "All Overdrive features",
-      "10TB additional storage",
-      "50% off per member",
-      "Real-time collaboration",
+      "Treinos personalizados em dupla",
+      "Relatório de desempeho",
+      "Até 8 sessões por mês com personal trainer",
+      "Suporte prioritário 24/7",
     ],
     icon: "/images/hexagon.svg",
     logo: "/images/plan-3.png",
@@ -160,51 +160,50 @@ export const plans = [
 export const testimonials = [
   {
     id: "0",
-    name: "Jessica Saunders",
-    role: "Globalnomads",
+    name: "Amanda Costa",
+    role: "",
     avatarUrl: "/images/testimonials/jessica-saunders.png",
     comment:
-      "Xora's customer support is second to none! They’re like my tech superheroes, always there when I need them.",
+      "O suporte é incrível! Sempre disponíveis para ajudar, em qualquer momento.",
   },
   {
     id: "1",
-    name: "Mark Erixon",
-    role: "Vid capital intl",
+    name: "Lucas Martins",
+    role: "",
     avatarUrl: "/images/testimonials/mark-erixon.png",
     comment:
-      "I was skeptical at first, but now I can't imagine our content operations without it. It's that impactful.",
+      "A TREINE mudou completamente minha rotina de treinos. Nunca me senti tão motivado!",
   },
   {
     id: "2",
-    name: "Melanie Hurst",
-    role: "Cyberleap",
+    name: "Bruna Silva",
+    role: "",
     avatarUrl: "/images/testimonials/melanie-hurst.png",
     comment:
-      "Adopting this software was a breeze. It's made everyday tasks so much simpler.",
+      "Os treinos personalizados da TREINE trouxeram resultados mais rápidos do que eu esperava.",
   },
   {
     id: "3",
-    name: "Alicia Barker",
-    role: "Cyberleap",
+    name: "Carla Ribeiro",
+    role: "",
     avatarUrl: "/images/testimonials/alicia-barker.png",
     comment:
-      "The analytics feature is like having a personal fortune teller. It's been instrumental in guiding our business decisions.",
+      "Treinar com a comunidade da TREINE me mantém motivada todos os dias. Adoro fazer parte disso!",
   },
   {
     id: "4",
-    name: "Becky Snider",
-    role: "Floclips",
+    name: "Beatriz Oliveira",
+    role: "",
     avatarUrl: "/images/testimonials/becky-snider.png",
-    comment:
-      "Switched to Xora last month, and I'm already seeing results. Best decision for our team!",
+    comment: "Suporte excelente! A TREINE me ajuda sempre que preciso.",
   },
   {
     id: "5",
-    name: "Jim Bradley",
-    role: "Vid capital intl",
+    name: "Thiago Santos",
+    role: "",
     avatarUrl: "/images/testimonials/jim-bradley.png",
     comment:
-      "The efficiency boost is undeniable. This platform has transformed our workflow, forever.",
+      "Monitorar meu progresso em tempo real faz toda a diferença. TREINE é top!",
   },
 ];
 
