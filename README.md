@@ -1,53 +1,52 @@
 # 🚀 TREINE - SaaS Landing Page
 
-TREINE é um site SaaS moderno desenvolvido com React.js e Tailwind CSS, projetado para demonstrar princípios avançados de UI/UX. Com um design elegante, animações suaves e uma experiência de usuário otimizada, serve como uma referência para aplicações e websites modernos.
+TREINE is a modern SaaS website built with React.js and Tailwind CSS, designed to showcase advanced UI/UX principles. With a sleek design, smooth animations, and an optimized user experience, it serves as a reference for modern applications and websites.
 
 ## 🛠️ Tech Stack
-- **Vite** - Ferramenta de build rápida para projetos React.
-- **React.js** - Biblioteca para construção de interfaces de usuário.
-- **Tailwind CSS** - Framework de CSS para estilização eficiente e responsiva.
+- **Vite** - Fast build tool for React projects.
+- **React.js** - Library for building user interfaces.
+- **Tailwind CSS** - Utility-first CSS framework for efficient and responsive styling.
 
-## 🔥 Principais Recursos
-✅ **Seções Modernas** - Inclui seções como Hero, Recursos, Preços (mensal/anual), FAQ, Depoimentos e Download do software.
+## 🔥 Key Features
+✅ **Modern Sections** - Includes Hero, Features, Pricing (monthly/yearly), FAQ, Testimonials, and Download sections.
 
-✅ **Animações Suaves** - Utiliza CSS avançado para efeitos visuais fluídos e atraentes.
+✅ **Smooth Animations** - Uses advanced CSS for fluid and eye-catching effects.
 
-✅ **Gradientes Personalizados** - Efeitos visuais impressionantes com pseudo-elementos CSS `::before` e `::after`.
+✅ **Custom Gradients** - Stunning visual effects using `::before` and `::after` pseudo-elements.
 
-✅ **Navegação Intuitiva** - Interface fluida e fácil de usar, com rolagem suave.
+✅ **Intuitive Navigation** - Seamless and user-friendly scrolling experience.
 
-✅ **Otimização de Performance** - Estruturado para carregamento rápido e experiência fluída.
+✅ **Optimized Performance** - Built for fast loading and a smooth experience.
 
-✅ **Design Responsivo** - Layout adaptável para diferentes dispositivos e tamanhos de tela.
+✅ **Responsive Design** - Fully adaptable to various devices and screen sizes.
 
-✅ **Código Modular e Reutilizável** - Componentes bem estruturados para fácil manutenção e expansão.
+✅ **Modular and Reusable Code** - Well-structured components for easy maintenance and scalability.
 
-## ⚡ Como Executar o Projeto
+## ⚡ Getting Started
 
-Siga os passos abaixo para rodar o projeto localmente:
+Follow these steps to run the project locally:
 
-### 📌 Pré-requisitos
-Certifique-se de ter os seguintes softwares instalados:
+### 📌 Prerequisites
+Make sure you have the following installed:
 - [Git](https://git-scm.com/)
 - [Node.js](https://nodejs.org/)
-- [npm](https://www.npmjs.com/) (gerenciador de pacotes do Node.js)
+- [npm](https://www.npmjs.com/)(included with Node.js)
 
-### 📂 Clonando o Repositório
+### 📂 Cloning the Repository
 ```sh
 git clone https://github.com/fabianorong/treine.git
 cd treine
 cd vite-project
 ```
 
-### 📦 Instalando Dependências
+### 📦 Installing Dependencies
 ```sh
 npm install
 ```
 
-### ▶️ Rodando o Projeto
+### ▶️ Running the Project
 ```sh
 npm run dev
 ```
-Abra [http://localhost:5173](http://localhost:5173) no seu navegador para visualizar o projeto.
-
+Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
 
