@@ -34,8 +34,8 @@ Certifique-se de ter os seguintes softwares instalados:
 
 ### 📂 Clonando o Repositório
 ```sh
-git clone https://github.com/fabianorong/saas_app.git
-cd saas_app
+git clone https://github.com/fabianorong/treine.git
+cd treine
 cd vite-project
 ```
 
