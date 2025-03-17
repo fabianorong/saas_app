@@ -36,6 +36,7 @@ Certifique-se de ter os seguintes softwares instalados:
 ```sh
 git clone https://github.com/fabianorong/saas_app.git
 cd saas_app
+cd vite-project
 ```
 
 ### 📦 Instalando Dependências
